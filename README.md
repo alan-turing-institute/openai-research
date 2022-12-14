@@ -15,7 +15,7 @@ When reusing this repository, please update information on your README page with
 
 ### Repo Structure
 
-The structure of this repostiory follows the above template, and is inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science):
+The structure of this repository follows the above template, and is inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science):
 
 ```
 ├── LICENSE
